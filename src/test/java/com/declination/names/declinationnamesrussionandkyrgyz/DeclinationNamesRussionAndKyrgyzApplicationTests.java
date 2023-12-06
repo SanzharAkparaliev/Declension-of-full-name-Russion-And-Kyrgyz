@@ -1,17 +1,15 @@
 package com.declination.names.declinationnamesrussionandkyrgyz;
 
-import org.junit.Assert;
+
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import static junit.framework.TestCase.assertEquals;
-
 @SpringBootTest
-class DeclinationNamesRussionAndKyrgyzApplicationTests {
+public class DeclinationNamesRussionAndKyrgyzApplicationTests {
 
     @Test
-    void convertor() {
+    public void convertor() {
         // ФИО
         Declination name = new Declination("Акпаралиев Санжар Таалайбекович");
         Assertions.assertEquals("Акпаралиева Санжара Таалайбековича", name.fullName(DeclinationProcessor.gcaseRod));
