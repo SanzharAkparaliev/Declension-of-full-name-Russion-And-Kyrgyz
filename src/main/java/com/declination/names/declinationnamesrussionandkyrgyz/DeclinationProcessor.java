@@ -8,21 +8,21 @@ public class DeclinationProcessor {
     static String sexM = "m";
     static String sexF = "f";
     // именительный
-    static String gcaseIm =   "nominative";
+    public static String gcaseIm =   "nominative";
     static String gcaseNom = "nominative";
     // родительный
-    static String gcaseRod =  "genitive";
+    public static String gcaseRod =  "genitive";
     static String gcaseGen = "genitive";
     // дательный
-    static String gcaseDat =  "dative";
+    public static String gcaseDat =  "dative";
     // винительный
-    static String gcaseVin =  "accusative";
+    public static String gcaseVin =  "accusative";
     static String gcaseAcc = "accusative";
     // творительный
-    static String gcaseTvor = "instrumentative";
+    public static String gcaseTvor = "instrumentative";
     static String gcaseIns = "instrumentative";
     // предложный
-    static String gcasePred = "prepositional";
+    public static String gcasePred = "prepositional";
     static String gcasePos = "prepositional";
 
     private DeclinationProcessor() {
