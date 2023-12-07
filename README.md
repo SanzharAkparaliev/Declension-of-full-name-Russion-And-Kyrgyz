@@ -40,5 +40,6 @@
 > gcaseVin: Винительный падеж
 > gcaseTvor: Творительный падеж
 > gcasePred: Предложный падеж
-<img src="images/images.jpg"/>
+
+<img src="https://github.com/SanzharAkparaliev/Declension-of-full-name-Russion-And-Kyrgyz/blob/master/images/images.jpg"/>
 <img src="images/images1.jpg"/>
