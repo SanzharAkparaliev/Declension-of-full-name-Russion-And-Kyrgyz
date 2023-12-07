@@ -29,7 +29,7 @@
   ```
 3. С использованием "кызы" и "уулу":
     ```java
-    Declination kyzyName = new Declination("Курбанбек кызы Айжамал");
+    Declination kyzyName = new Declination("Марапат кызы Шарапат");
     Declination uuluName = new Declination("Таалайбек уулу Санжар");
   ```
 ### Класс DeclinationProcessor
@@ -40,5 +40,6 @@
 > gcaseVin: Винительный падеж
 > gcaseTvor: Творительный падеж
 > gcasePred: Предложный падеж
+
 <img src="images/images.jpg"/>
 <img src="images/images1.jpg"/>
