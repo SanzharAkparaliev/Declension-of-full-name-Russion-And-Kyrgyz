@@ -3,9 +3,7 @@ package com.declination.names.declinationnamesrussionandkyrgyz;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.Test;
-import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
 public class DeclinationNamesRussionAndKyrgyzApplicationTests {
 
     @Test
