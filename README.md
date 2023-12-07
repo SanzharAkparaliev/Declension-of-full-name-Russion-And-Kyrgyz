@@ -35,11 +35,11 @@
 ### Класс DeclinationProcessor
 - Класс DeclinationProcessor предоставляет методы для обработки русских и киргизских имен. Вы можете использовать его для склонения фамилий, имен и отчеств в зависимости от грамматических падежей.
 
-> gcaseRod: Родительный падеж
-> gcaseDat: Дательный падеж
-> gcaseVin: Винительный падеж
-> gcaseTvor: Творительный падеж
-> gcasePred: Предложный падеж
+       gcaseRod: Родительный падеж
+       gcaseDat: Дательный падеж
+       gcaseVin: Винительный падеж
+       gcaseTvor: Творительный падеж
+       gcasePred: Предложный падеж
 
 <img src="https://github.com/SanzharAkparaliev/Declension-of-full-name-Russion-And-Kyrgyz/blob/master/images/images.jpg"/>
 <img src="images/images1.jpg"/>
