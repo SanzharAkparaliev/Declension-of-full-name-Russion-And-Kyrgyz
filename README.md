@@ -31,7 +31,7 @@
     ```java
     Declination kyzyName = new Declination("Курбанбек кызы Айжамал");
     Declination uuluName = new Declination("Таалайбек уулу Санжар");
-  ```
+     ```
 ### Класс DeclinationProcessor
 - Класс DeclinationProcessor предоставляет методы для обработки русских и киргизских имен. Вы можете использовать его для склонения фамилий, имен и отчеств в зависимости от грамматических падежей.
 
